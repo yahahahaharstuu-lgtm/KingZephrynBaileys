@@ -1,5 +1,5 @@
 {
-  "name": "baileys",
+  "name": "@yahahahaharstuu-lgtm/baileys",
   "type": "module",
   "version": "7.0.0-rc11",
   "description": "A WebSockets library for interacting with WhatsApp Web",
@@ -9,10 +9,10 @@
   ],
   "homepage": "https://github.com/WhiskeySockets/Baileys/",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "https://github.com/yahahahaharstuu-lgtm/KingZephrynBaileys.git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "King Zephyrn",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
